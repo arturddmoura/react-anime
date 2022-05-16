@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-anime/static/css/main.99f6b906.css",
+    "main.js": "/react-anime/static/js/main.ccf864a6.js",
+    "index.html": "/react-anime/index.html",
+    "main.99f6b906.css.map": "/react-anime/static/css/main.99f6b906.css.map",
+    "main.ccf864a6.js.map": "/react-anime/static/js/main.ccf864a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99f6b906.css",
+    "static/js/main.ccf864a6.js"
+  ]
+}
